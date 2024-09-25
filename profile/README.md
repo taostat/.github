@@ -4,7 +4,7 @@ Welcome to Taostats' Github.
 
 We're busy working behind the scenes. 
 
-## issues with our tools?
+## Issues with our tools?
 If you have an issue with our API, website - please create an issue in the [Public Issues Tracker](https://github.com/taostat/public-issues-tracker).
 
 ## Awesome Taostats
